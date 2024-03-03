@@ -1,6 +1,6 @@
 - 👋 Hi, I’m __Akansh Srivastava__
 - 👀 I’m interested in learning new technology,coding and building solutions and I work in IT industry.
-- 🌱 I’m currently learning AWS + Kafka
+- 🌱 I’m currently learning .Net Web Development to contribute in Microsoft Omnichannel Project. 
 - 📫 How to reach me @akanshsriastava.srivastava35@gmail.com
 Follow me on [LinkedIn](https://www.linkedin.com/in/akansh-srivastava-2b4455140/)
 
